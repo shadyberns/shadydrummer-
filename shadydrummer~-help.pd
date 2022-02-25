@@ -1,0 +1,29 @@
+#N canvas 467 414 867 494 12;
+#X obj 48 58 shadydrummer~;
+#X text 612 119 1: Sound select;
+#X text 612 151 3: BPM;
+#X text 612 183 5: Clear all;
+#X text 612 199 6: Change color;
+#X text 612 167 4: Panic mode (all-on);
+#X text 612 135 2: Start/stop;
+#X text 612 215 7: Activate/Disable;
+#X text 612 231 8: Mute instruments;
+#X text 274 32 1;
+#X text 341 32 2;
+#X text 376 32 3;
+#X text 442 34 4;
+#X text 467 34 5;
+#X text 491 34 6;
+#X text 545 34 7;
+#X text 15 190 8;
+#X text 44 411 use;
+#X obj 81 411 catch~ drum-sum;
+#X text 197 411 to output sound;
+#X obj 81 450 dac~;
+#X text 44 328 shadydrummer~ is a sample-based drum machine sequencer
+\, click on the blocks to program a bar of drum sequence. *NOTE: patch
+will not work without helper patch sipmlecolortog and colortog;
+#X text 499 378 by @shadyberns \, all rights reserved 2022;
+#X text 499 401 updated for Pd 0.52-1;
+#X connect 18 0 20 0;
+#X connect 18 0 20 1;
