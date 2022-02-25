@@ -42,4 +42,4 @@ An working example can be found inside the "shadydrummer~" patch as well.<br><br
 Sounds in the /sample folder can be swapped out by replacing the original file with another file or by renaming the new file to match the target replacement.<br><br>
 
 # Acknowledgements
-This patch was originally inspired by mrp805's [Pure Data Sequencer 2015](https://youtu.be/9Nz0bxwoqQE), with the help of Prof. Miller Puckette and Dr. Kevin Haywood at University of California, San Diego.
+This patch was originally inspired by mrp805's [Pure Data Sequencer 2015](https://youtu.be/9Nz0bxwoqQE), and created with the help of Prof. Miller Puckette and Dr. Kevin Haywood at University of California, San Diego.
