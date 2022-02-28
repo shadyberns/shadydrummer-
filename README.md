@@ -36,7 +36,7 @@ on-1-1 1;
 on-1-3 1;
 on-4-5 1;
 ```
-An working example can be found inside the "shadydrummer~" patch as well.<br><br>
+A working example can be found inside the "shadydrummer~" patch as well.<br><br>
 
 # Customization
 Sounds in the /sample folder can be swapped out by replacing the original file with another file or by renaming the new file to match the target replacement.<br><br>
